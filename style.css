@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: lightgray;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    
+    
+    
+}
+.avatar {
+    background-color: white;
+    height: 200px;
+    width: 220px;
+    border: none;
+}
